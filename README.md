@@ -15,5 +15,5 @@ Meu nome é Sherman, sou desenvolvedor de software e curso Desenvolvimento de Si
 ![Gmail](https://img.shields.io/badge/<shydaainbox@gmail.com>-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## 📈 Estatísticas Github (Github Stats)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sheermxn)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheermxn&layout=compact)](https://github.com/yushi1007)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thewalterdev)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewalterdev&layout=compact)](https://github.com/yushi1007)
